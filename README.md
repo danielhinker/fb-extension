@@ -1,1 +1,1 @@
-# fb-extension
+# Facebook Chrome Extension
